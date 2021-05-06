@@ -9,3 +9,5 @@ heroku login -i
 Creating database with postgresql
 heroku addons:create heroku-postgresql -a <app_name>
 
+https://www.postgresqltutorial.com/install-postgresql-linux/
+
